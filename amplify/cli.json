@@ -1,8 +1,8 @@
 {
   "features": {
-    "frontend-ios": true,
-    "auth": true,
-    "codegen": true,
-    "appsync": true
+    "frontend-ios",
+    "auth",
+    "codegen",
+    "appsync"
   }
 }
