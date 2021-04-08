@@ -1,20 +1,8 @@
 {
   "features": {
-    "frontend-ios": {
-      "enablexcodeintegration": true
-    },
-    "auth": {
-      "enablecaseinsensitivity": true
-    },
-    "codegen": {
-      "useappsyncmodelgenplugin": true,
-      "usedocsgeneratorplugin": true,
-      "usetypesgeneratorplugin": true,
-      "cleangeneratedmodelsdirectory": true,
-      "retaincasestyle": true
-    },
-    "appsync": {
-      "generategraphqlpermissions": true
-    }
+    "frontend-ios": true,
+    "auth": true,
+    "codegen": true,
+    "appsync": true
   }
 }
